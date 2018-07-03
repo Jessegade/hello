@@ -6,7 +6,7 @@
 * Mobile : 08-5119-0507
 
 ## EDUCATION
-* 2014-Present 
+* 2014-Present  
 King Mongkut's Institute of Technology
 Ladkrabang (KMITL),
 Faculty of Information Technology,

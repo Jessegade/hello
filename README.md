@@ -7,7 +7,7 @@
 
 ## EDUCATION
 * 2014-Present 
- * King Mongkut's Institute of Technology
+King Mongkut's Institute of Technology
 Ladkrabang (KMITL),
 Faculty of Information Technology,
 Software Engineering Track
